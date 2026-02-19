@@ -67,3 +67,13 @@ Detailed evaluation across technical depth, communication clarity, fluency, and 
 | **Viplove Tyagi**     | BiLSTM, NN Dense (Resume Classification), Video Analysis (DeepFace, OpenCV)   |
 
 ---
+
+## ⚖️ Licenses & Attributions
+
+This project utilizes models and datasets that carry specific licensing requirements:
+
+* **AI/ML Models:** The core models for Resume Classification were developed and provided by [vipplovve/ResuAnalyz](https://github.com/vipplovve/ResuAnalyz) under the MIT License.
+* **Mixed Dataset Licensing & Restrictions:** The machine learning models integrated from `ResuAnalyz` were trained using datasets with varying licenses:
+  * **IT Career Proficiency Dataset:** Licensed under CC BY 4.0 (Commercial use permitted with attribution).
+  * **Resume Dataset:** Licensed under **CC BY-NC 4.0 (Non-Commercial use ONLY)**.
+* **Commercialization Notice:** Because the resume classification features rely on the CC BY-NC 4.0 dataset, those specific features **CANNOT be used for commercial purposes or monetized**. Any future commercialization of the MockVue platform will require isolating, replacing, or completely retraining the models tied to the non-commercial data.
